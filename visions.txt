@@ -1,1 +1,3 @@
 LIST OF THINGS WE WANT TO DO WITH CODE THIS YEAR
+
+Item 1: Make Manny a sick website for music, a bit like:  https://tympanus.net/Development/AudioBasedImageDistortion/index3.html
